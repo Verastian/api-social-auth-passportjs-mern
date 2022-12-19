@@ -6,14 +6,6 @@
 
 A REST authentication API with Node.js, Express.js and MongoDB in the backend and Reactjs as client, to manage the registration and login of users using local strategies and with social networks from the Passport js library.
 
-## Table of Contents 📋
-
-- [Installation and configuration](#installation-and-configuration)
-- [Use](#use)
-- [Dependencies](#dependencies)
-- [License](#license)
-- [Contribution](#contribution)
-
 ## Built with 🛠️
 
 This project is built mainly with
