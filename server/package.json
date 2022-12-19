@@ -1,13 +1,13 @@
 {
-  "name": "backend",
+  "name": "social-auth-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "project for learning more advanced features in the user authentication flow",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "verastian",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
