@@ -2,7 +2,7 @@
 
 ## Starting 🚀
 
-![social-auth|500](vault/social-auth.gif)
+![social-auth|500](readme/social-auth.gif)
 
 A REST authentication API with Node.js, Express.js and MongoDB in the backend and Reactjs as client, to manage the registration and login of users using local strategies and with social networks from the Passport js library.
 
